@@ -1,5 +1,5 @@
 #Course: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-#This is a computer vision example! Recognizing different items of clothing, trianed from a dataset containing 10 different types!
+#This is a computer vision example! Recognizing different items of clothing, trained from a dataset containing 10 different types!
 # The Fashion MNIST data is available directly in the tf.keras dataset API.
 
 
